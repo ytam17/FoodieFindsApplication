@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FoodieFinds</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="role_register">Register As:</string>
+    <string-array name="roles">
+        <item>User</item>
+        <item>Restaurant Owner</item>
+    </string-array>
+    <string name="register">register</string>
+    <string name="fullname">Fullname</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="email">Email</string>
+    <string name="new_username">Create Your Username</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+    <string name="registerhere">Not a member yet? <u>Register now!</u></string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="sun_time">SUN:</string>
+    <string name="mon_time">MON:</string>
+    <string name="tue_time">TUE:</string>
+    <string name="wed_time">WED:</string>
+    <string name="thu_time">THU:</string>
+    <string name="fri_time">FRI:</string>
+    <string name="sat_time">SAT:</string>
+    <string name="loading_restaurant">Loading restaurant…</string>
+    <string name="search_result_restaurant">Restaurant</string>
+    <string name="rating_colon">Rating:</string>
+    <string name="rating">%1$s/%2$s (%3$s reviews)</string>
+    <string name="no_ratings">no ratings</string>
+    <string name="reviews">Reviews:</string>
+    <string name="call">Call</string>
+    <string name="call_number">Call %1$s</string>
+    <string name="write_review">Write your review</string>
+    <string name="subject">Subject:</string>
+    <string name="comment">Comment:</string>
+    <string name="submit">Submit</string>
+    <string name="launch_maps">Map</string>
+    <string name="view_website">Website</string>
+</resources>
